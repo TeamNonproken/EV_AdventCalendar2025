@@ -44,4 +44,22 @@ https://github.com/orgs/TeamNonproken/projects/1
 
 アイディアややることリストはBacklogにぶっこんでください～。
 
+
+
+【過去の開催】
+ノンプロ研 Advent Calendar 2024
+https://adventar.org/calendars/10883
+
+ノンプロ研 Advent Calendar 2023
+https://adventar.org/calendars/8823
+
+ノンプロ研 Advent Calendar 2022
+開催されず
+
+ノンプロ研 Advent Calendar 2021
+https://adventar.org/calendars/6746
+
+
+プログラミング学習を行うノンプログラマーが集まる[「ノンプログラマーのためのスキルアップ研究会」](https://tonari-it.com/community-nonpro-semi/)メンバーによるカレンダーです。 ハッシュタグは #ノンプロ研アドベントカレンダー です。
+
 上記README.mdに掲載してます。
